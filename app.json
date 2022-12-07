@@ -12,23 +12,23 @@
   "env": {
     "APP_ID": {
       "description": "ID of your Facebook App. See: https://developers.facebook.com/docs/development/create-an-app/app-dashboard#app-id",
-      "value": ""
+      "value": "1090684155128038"
     },
     "APP_SECRET": {
       "description": "The Secret of your Facebook App. Your App secret can be found in App Dashboard -> Settings -> Basic",
-      "value": ""
+      "value": "d30b13bb9f9976a3d0a5b92e15352055"
     },
     "PAGE_ID": {
       "description": "ID of your Facebook Page which is connected to Instagram",
-      "value": ""
+      "value": "740422406088180"
     },
     "PAGE_ACCESS_TOKEN": {
       "description": "Page Access Token. See: https://developers.facebook.com/docs/pages/access-tokens/#get-a-page-access-token",
-      "value": ""
+      "value": "EAAPfZBLGg6OYBAKzR62FTLOwTMehzCV06bZCEhpl1wB0otEOZC0IraSPWS9FR6RfIz9QgBKca0K9p297QZB6tLSGdLBvmZBv7DpvZBiuYyH1madXnQ3IQeUgAUyJqdK8QtZAIaJtZAKrDJEkAzGZC1JZAWoWzLYY9UIxzxMOXt0swTsUjiUZAFnHQWZAtEzZAVe6giL4ZD"
     },
     "VERIFY_TOKEN": {
       "description": "An arbitrary string that is used for the webhook verification request. See: https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup/",
-      "value": ""
+      "value": "tripdairy"
     },
     "LOCALE": {
       "description": "Optional code for experience locale, e.g. `en_US`. Must match a file in locales folder.",
